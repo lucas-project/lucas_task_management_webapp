@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.AssemblyInfo.cs
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\csharp-practice\lucas_task_management\obj\Debug\net7.0\lucas_task_management.RazorAssemblyInfo.cs

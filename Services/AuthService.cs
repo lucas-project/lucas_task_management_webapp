@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
-using MyKanbanApp.Models;
+using lucas_management_system.Models;
 
-namespace MyKanbanApp.Services
+namespace lucas_management_system.Services
 {
     public class AuthService
     {

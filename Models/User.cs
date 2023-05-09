@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace MyKanbanApp.Models
+namespace lucas_management_system.Models
 {
     public class User : IdentityUser
     {

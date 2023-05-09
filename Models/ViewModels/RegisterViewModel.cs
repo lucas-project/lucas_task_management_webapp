@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MyKanbanApp.ViewModels
+namespace lucas_management_system.ViewModels
 {
     public class RegisterViewModel
     {

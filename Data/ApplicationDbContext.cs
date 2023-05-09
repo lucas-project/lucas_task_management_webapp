@@ -1,10 +1,10 @@
 ﻿using lucas_management_system.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using MyKanbanApp.Models;
+using lucas_management_system.Models;
 using System.Collections.Generic;
 
-namespace MyKanbanApp.Data
+namespace lucas_management_system.Data
 {
     public class ApplicationDbContext : IdentityDbContext<User>
     {

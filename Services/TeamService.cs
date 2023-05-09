@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using MyKanbanApp.Data;
-using MyKanbanApp.Models;
+using lucas_management_system.Data;
+using lucas_management_system.Models;
 
-namespace MyKanbanApp.Services
+namespace lucas_management_system.Services
 {
     public class TeamService
     {

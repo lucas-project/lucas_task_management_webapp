@@ -1,8 +1,8 @@
 ﻿using lucas_management_system.Services;
 using Microsoft.AspNetCore.Mvc;
-using MyKanbanApp.Services;
+using lucas_management_system.Services;
 
-namespace MyKanbanApp.Controllers
+namespace lucas_management_system.Controllers
 {
     public class AuthController : Controller
     {

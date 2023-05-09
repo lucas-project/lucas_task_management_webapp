@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MyKanbanApp.Models
+namespace lucas_management_system.Models
 {
     public class Task
     {

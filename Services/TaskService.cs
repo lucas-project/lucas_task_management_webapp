@@ -1,16 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using MyKanbanApp.Data;
-using MyKanbanApp.Models;
+using lucas_management_system;
+using lucas_management_system.Models;
 
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using MyKanbanApp.Data;
-using MyKanbanApp.Models;
 
-namespace MyKanbanApp.Services
+namespace lucas_management_system.Services
 {
     public class TaskService
     {
